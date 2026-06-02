@@ -1,8 +1,6 @@
 # research-experimental
 Hypothesis-driven research scratchpad: super early-stage exploration of ideas that may or may not become portfolio projects
 
-# research-experimental 🔬
-
 > "I wonder if X is true."
 
 A place where I can test early-stage explorations of ideas, signals, and hypotheses that sit outside my structured curriculum. Driven by hypotheses, cross-disciplinary academic theory, etc.
